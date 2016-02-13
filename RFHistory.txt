@@ -1,0 +1,2 @@
+2016-1-27:修改RF的LINK与UNLINK逻辑，对同一设备多次LINK与UNLINK的处理。
+2016-1-28:修改RF的LINK与UNLINK逻辑，LINK已经存在就也会发一条消息给主控。

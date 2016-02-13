@@ -1,0 +1,1 @@
+"./5xx_HAL/hal_pmm.obj" "./5xx_HAL/hal_flash.obj" "./5xx_HAL/hal_UCS.obj" "./5xx_HAL/hal_PMAP.obj" "./5xx_HAL/RF1A.obj" "./AT25DF521/at25df521.obj" "./uart.obj" "./timer.obj" "./setup.obj" "./main.obj" -l"libc.a" "../lnk_cc430f5137.cmd" 
