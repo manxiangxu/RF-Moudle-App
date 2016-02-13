@@ -19,6 +19,7 @@ volatile char CleanUpStatus='1';
 
 
 
+//This is for define the fix ID to the fix location 0xff70
 
 //#pragma RETAIN(myid1)
 //#pragma location=0xff70
